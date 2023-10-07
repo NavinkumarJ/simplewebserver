@@ -57,6 +57,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+![image](Screenshot%20(105).png)
+
 ![image](Screenshot%20(104).png)
 
 ## RESULT:
